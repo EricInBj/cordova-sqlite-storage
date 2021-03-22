@@ -2,6 +2,8 @@
 
 #### cordova-sqlite-storage 6.0.0-dev
 
+- XXX
+
 ### cordova-sqlite-storage-commoncore 2.0.0
 
 - refactor: clean up imports for Android
