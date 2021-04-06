@@ -35,7 +35,7 @@
     return sqlError;
   };
 
-  nextTick = window.setImmediate || function(fun) {
+  nextTick = function(fun) {
     window.setTimeout(fun, 0);
   };
 
